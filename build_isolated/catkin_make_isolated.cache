@@ -1,0 +1,2 @@
+autolabor_delta_1a_navigation_src:autolabor_description:autolabor_keyboard_control:autolabor_pro1_driver:delta_1a_ros:joy:joy_to_twist:rplidar_ros
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/gyc/catkin_ws_lidar_slam/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/gyc/catkin_ws_lidar_slam/install_isolated

@@ -1,0 +1,2 @@
+autolabor_delta_1a_navigation_src:autolabor_description:autolabor_keyboard_control:autolabor_pro1_driver:delta_1a_ros
+-DCATKIN_DEVEL_PREFIX=/home/gyc/catkin_ws_lidar_slam/devel -DCMAKE_INSTALL_PREFIX=/home/gyc/catkin_ws_lidar_slam/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/gyc/catkin_ws_lidar_slam/devel_isolated/autolabor_box_launch
+
+Name: autolabor_box_launch
+Description: Description of autolabor_box_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

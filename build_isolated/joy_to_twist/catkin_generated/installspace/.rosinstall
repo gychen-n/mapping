@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gyc/catkin_ws_lidar_slam/install_isolated/setup.sh
